@@ -43,6 +43,7 @@ Total 85 papers except for the papers in *Hardware / Software* and *Papers Worth
 - Deep learning (2015), Y. LeCun, Y. Bengio and G. Hinton [[html]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14539.html) :sparkles:
 - Deep learning in neural networks: An overview (2015), J. Schmidhuber [[pdf]](http://arxiv.org/pdf/1404.7828) :sparkles:
 - Representation learning: A review and new perspectives (2013), Y. Bengio et al. [[pdf]](http://arxiv.org/pdf/1206.5538) :sparkles:
+- A survey on transfer learning (2010), S. J. Pan and Q. Yang [[pdf]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
 ### Theory / Future
 - Distilling the knowledge in a neural network (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
